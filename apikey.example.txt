@@ -1,0 +1,3 @@
+# Put one API key per line in apikey.txt.
+# Never commit real keys.
+YOUR_API_KEY_HERE

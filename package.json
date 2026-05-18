@@ -1,0 +1,15 @@
+{
+  "name": "chengshuo-daughter-simulator",
+  "version": "0.1.0",
+  "private": true,
+  "description": "成硕女儿模拟器：左侧文游 + 右侧 iOS 小手机的家庭成长同人文游。",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "check": "node --check server.js && node --check app.js && node scripts/secret-scan.js",
+    "secret-scan": "node scripts/secret-scan.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
